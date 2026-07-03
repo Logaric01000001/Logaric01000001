@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Logaric
 
-<!--
-**Logaric01000001/Logaric01000001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Red Team learner and web developer focused on building practical projects, improving my skills.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning offensive security and web development
+- Building tools with Python, JavaScript, Bash, and C++
+- Creating Docker labs and solving CTF challenges
+- Sharing projects and write-ups
+
+## Tech Stack
+
+- Python
+- JavaScript
+- Bash
+- Rust
+- C++
+- HTML & CSS
+- Git
+- Docker
+- Linux
+
+## Current Goals
+
+- Build useful open-source projects
+- Create a strong cybersecurity portfolio
+- Improve my programming skills
+- Learn by building and documenting everything
+
+> Always learning. Always building.
+:::
