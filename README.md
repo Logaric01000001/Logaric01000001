@@ -6,7 +6,7 @@ Red Team learner and web developer focused on building practical projects, impro
 
 - Learning offensive security and web development
 - Building tools with Python, JavaScript, Bash, and C++
-- Creating Docker labs and solving CTF challenges
+- Creating labs and solving CTF challenges
 - Sharing projects and write-ups
 
 ## Tech Stack
