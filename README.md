@@ -4,7 +4,7 @@
 
 I'm **Logaric**, a developer and security learner working with Linux, Python, JavaScript and Bash. I build practical tools, document how they work, and make their limits visible.
 
-[Explore the portfolio](https://github.com/Logaric01000001/Portafolio) · [Español](README.es.md) · [Technical notes](notes/README.md)
+[Explore the portfolio](https://logaric01000001.github.io/Portafolio/) · [Español](README.es.md) · [Technical notes](notes/README.md)
 
 ## Selected work
 
